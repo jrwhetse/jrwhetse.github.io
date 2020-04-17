@@ -2,9 +2,12 @@
 
 ## Cloud Systems Architect – DevOps Engineer
 
-Development (Engineer and Lead) - 14 years experience
+Positions:
 
-Operations (Admin and Engineer) - 8 years experience
+* Development (Engineer and Lead) - 14 years experience
+* Operations (Admin and Engineer) - 8 years experience
+* Management - 4 years
+* Configuration Management (SCM) - 4 years
 
 Work Goals/Behavior/Attributes
 
