@@ -20,6 +20,7 @@ Work Goals/Behavior/Attributes
 * Code Challenges
 * IaC
 * Language Agnostic (Concepts and Design rule all)
+* Organized
 
 ### COMPETENCIES 
 
