@@ -6,19 +6,20 @@ Development (Engineer and Lead) - 14 years experience
 
 Operations (Admin and Engineer) - 8 years experience
 
-Work Goals/Attributes: 
+Work Goals/Behavior/Attributes
 
 * Team Oriented
-* Mentoring
-* Information Sharing
-* New Technologies
-* R&D
-* Bridging Gapgs between Development and Operations.
+* Mentor
+* Cross Training
+* Learning new Technologies
+* Effective Communicator
+* Bridging Gapgs between Development and Operations
+* Code Challenges
+* IaC
+* Language Agnostic (Concepts and Design rule all)
 
 ### COMPETENCIES 
 
-* AWS			   		
-* Bash					
 * AWS
 * Docker				
 * Git/GitHub/GitLab			
@@ -43,3 +44,4 @@ Work Goals/Attributes:
 * XML/XSL/XSD
 * Oracle/MySQL/SQL Server				
 * Tomcat/JBoss/WebLogic
+* Bash
