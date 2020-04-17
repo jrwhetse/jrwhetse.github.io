@@ -21,7 +21,7 @@
 * Bridging Gapgs between Development and Operations
 * Code Challenges
 * IaC
-* Language Agnostic (Concepts and Design rule all)
+* System and Programming Language Agnostic (Concepts and Design Apply to All)
 * Organized
 
 ### COMPETENCIES 
