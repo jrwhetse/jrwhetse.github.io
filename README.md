@@ -25,7 +25,7 @@
 * Programming 
 * Organized
 
-### COMPETENCIES 
+### Compentencies 
 
 * AWS
 * Docker				
@@ -52,3 +52,5 @@
 * Oracle/MySQL/SQL Server				
 * Tomcat/JBoss/WebLogic
 * Bash
+
+
