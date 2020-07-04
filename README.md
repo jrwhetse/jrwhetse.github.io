@@ -18,10 +18,11 @@
 * Cross Training
 * Learning new Technologies
 * Effective Communicator
-* Bridging Gapgs between Development and Operations
+* Bridging Gaps between Development and Operations
 * Code Challenges
-* IaC
-* System and Programming Language Agnostic (Concepts and Design Apply to All)
+* Architecture/Design
+* Implmentation
+* Programming 
 * Organized
 
 ### COMPETENCIES 
