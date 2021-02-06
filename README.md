@@ -6,6 +6,7 @@
 
 * Development (Engineer and Lead) - 14 years experience
 * Operations (Admin and Engineer) - 8 years experience
+* DevOps Engineer - 6 years
 * Architect - 2 years
 * Configuration Management (SCM) - 4 years
 * Management - 4 years
