@@ -22,7 +22,7 @@
 * Bridging Gaps between Development and Operations
 * Code Challenges
 * Architecture/Design
-* Implmentation
+* Implementation
 * Programming 
 * Organized
 
