@@ -4,12 +4,13 @@
 
 ### Positions 
 
+* Total XP: 26 years
 * Development (Engineer and Lead) - 14 years experience
-* Operations (Admin and Engineer) - 8 years experience
-* DevOps Engineer - 6 years
-* Architect - 2 years
+* Operations (Admin and Engineer) - 12 years experience
+* DevOps Engineer - 8 years
+* Architect - 3 years
 * Configuration Management (SCM) - 4 years
-* Management - 4 years
+* Management - 5 years
 * Tester - 1 year
 
 ### Work Goals/Behavior/Attributes
@@ -28,10 +29,10 @@
 
 ### Compentencies 
 
-* AWS
-* Docker				
+* AWS		
 * Git/GitHub/GitLab			
-* Ansible	                  	 
+* Ansible	     
+* Docker		             	 
 * Kubernetes				
 * Subversion				
 * Puppet
@@ -53,5 +54,3 @@
 * Oracle/MySQL/SQL Server				
 * Tomcat/JBoss/WebLogic
 * Bash
-
-
